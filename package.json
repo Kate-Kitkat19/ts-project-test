@@ -1,0 +1,24 @@
+{
+  "name": "ts-project-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kate-Kitkat19/ts-project-test.git"
+  },
+  "keywords": [],
+  "author": "Kate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kate-Kitkat19/ts-project-test/issues"
+  },
+  "homepage": "https://github.com/Kate-Kitkat19/ts-project-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
