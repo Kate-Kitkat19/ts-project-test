@@ -87,4 +87,11 @@ const page2: Page = {
   status: "close",
 };
 
+const page3: Page = {
+  title: "Python ",
+  likes: 6,
+  accounts: ["Alex", "New User"],
+  status: "open",
+};
+
 console.log(page1, page2);
